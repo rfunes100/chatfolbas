@@ -1,0 +1,30 @@
+2023/04/29-14:07:44.803 58f4 Reusing MANIFEST C:\TFS\react\chatfol-main\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/29-14:07:44.809 58f4 Recovering log #4748
+2023/04/29-14:07:44.855 58f4 Reusing old log C:\TFS\react\chatfol-main\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/004748.log 
+2023/04/29-14:14:39.932 5420 Level-0 table #4762: started
+2023/04/29-14:14:39.958 5420 Level-0 table #4762: 1296930 bytes OK
+2023/04/29-14:14:39.960 5420 Delete type=0 #4748
+2023/04/29-14:14:40.503 55b4 Compacting 1@1 + 10@2 files
+2023/04/29-14:14:40.589 55b4 Generated table #4763@1: 86049 keys, 2235665 bytes
+2023/04/29-14:14:40.634 55b4 Generated table #4764@1: 18196 keys, 2224579 bytes
+2023/04/29-14:14:40.660 55b4 Generated table #4765@1: 3014 keys, 2149157 bytes
+2023/04/29-14:14:40.689 55b4 Generated table #4766@1: 3940 keys, 2160645 bytes
+2023/04/29-14:14:40.744 55b4 Generated table #4767@1: 25697 keys, 2219073 bytes
+2023/04/29-14:14:40.804 55b4 Generated table #4768@1: 27510 keys, 2229652 bytes
+2023/04/29-14:14:40.847 55b4 Generated table #4769@1: 34681 keys, 2165862 bytes
+2023/04/29-14:14:40.943 55b4 Generated table #4770@1: 106066 keys, 2257416 bytes
+2023/04/29-14:14:41.040 55b4 Generated table #4771@1: 105618 keys, 2257631 bytes
+2023/04/29-14:14:41.061 55b4 Generated table #4772@1: 20704 keys, 447415 bytes
+2023/04/29-14:14:41.061 55b4 Compacted 1@1 + 10@2 files => 20347095 bytes
+2023/04/29-14:14:41.062 55b4 compacted to: files[ 0 0 10 0 0 0 0 ]
+2023/04/29-14:14:41.062 55b4 Delete type=2 #4750
+2023/04/29-14:14:41.062 55b4 Delete type=2 #4751
+2023/04/29-14:14:41.062 55b4 Delete type=2 #4752
+2023/04/29-14:14:41.062 55b4 Delete type=2 #4753
+2023/04/29-14:14:41.062 55b4 Delete type=2 #4754
+2023/04/29-14:14:41.062 55b4 Delete type=2 #4755
+2023/04/29-14:14:41.062 55b4 Delete type=2 #4756
+2023/04/29-14:14:41.063 55b4 Delete type=2 #4757
+2023/04/29-14:14:41.063 55b4 Delete type=2 #4758
+2023/04/29-14:14:41.063 55b4 Delete type=2 #4759
+2023/04/29-14:14:41.063 55b4 Delete type=2 #4762
