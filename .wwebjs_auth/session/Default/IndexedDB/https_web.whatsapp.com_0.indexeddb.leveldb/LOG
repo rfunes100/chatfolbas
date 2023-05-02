@@ -1,30 +1,38 @@
-2023/04/29-14:07:44.803 58f4 Reusing MANIFEST C:\TFS\react\chatfol-main\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/04/29-14:07:44.809 58f4 Recovering log #4748
-2023/04/29-14:07:44.855 58f4 Reusing old log C:\TFS\react\chatfol-main\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/004748.log 
-2023/04/29-14:14:39.932 5420 Level-0 table #4762: started
-2023/04/29-14:14:39.958 5420 Level-0 table #4762: 1296930 bytes OK
-2023/04/29-14:14:39.960 5420 Delete type=0 #4748
-2023/04/29-14:14:40.503 55b4 Compacting 1@1 + 10@2 files
-2023/04/29-14:14:40.589 55b4 Generated table #4763@1: 86049 keys, 2235665 bytes
-2023/04/29-14:14:40.634 55b4 Generated table #4764@1: 18196 keys, 2224579 bytes
-2023/04/29-14:14:40.660 55b4 Generated table #4765@1: 3014 keys, 2149157 bytes
-2023/04/29-14:14:40.689 55b4 Generated table #4766@1: 3940 keys, 2160645 bytes
-2023/04/29-14:14:40.744 55b4 Generated table #4767@1: 25697 keys, 2219073 bytes
-2023/04/29-14:14:40.804 55b4 Generated table #4768@1: 27510 keys, 2229652 bytes
-2023/04/29-14:14:40.847 55b4 Generated table #4769@1: 34681 keys, 2165862 bytes
-2023/04/29-14:14:40.943 55b4 Generated table #4770@1: 106066 keys, 2257416 bytes
-2023/04/29-14:14:41.040 55b4 Generated table #4771@1: 105618 keys, 2257631 bytes
-2023/04/29-14:14:41.061 55b4 Generated table #4772@1: 20704 keys, 447415 bytes
-2023/04/29-14:14:41.061 55b4 Compacted 1@1 + 10@2 files => 20347095 bytes
-2023/04/29-14:14:41.062 55b4 compacted to: files[ 0 0 10 0 0 0 0 ]
-2023/04/29-14:14:41.062 55b4 Delete type=2 #4750
-2023/04/29-14:14:41.062 55b4 Delete type=2 #4751
-2023/04/29-14:14:41.062 55b4 Delete type=2 #4752
-2023/04/29-14:14:41.062 55b4 Delete type=2 #4753
-2023/04/29-14:14:41.062 55b4 Delete type=2 #4754
-2023/04/29-14:14:41.062 55b4 Delete type=2 #4755
-2023/04/29-14:14:41.062 55b4 Delete type=2 #4756
-2023/04/29-14:14:41.063 55b4 Delete type=2 #4757
-2023/04/29-14:14:41.063 55b4 Delete type=2 #4758
-2023/04/29-14:14:41.063 55b4 Delete type=2 #4759
-2023/04/29-14:14:41.063 55b4 Delete type=2 #4762
+2023/04/29-21:45:16.057 7268 Reusing MANIFEST C:\TFS\react\chatfol-main\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/29-21:45:16.065 7268 Recovering log #5013
+2023/04/29-21:45:16.085 7268 Reusing old log C:\TFS\react\chatfol-main\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/005013.log 
+2023/04/29-21:49:26.641 4fdc Level-0 table #5030: started
+2023/04/29-21:49:26.675 4fdc Level-0 table #5030: 1269496 bytes OK
+2023/04/29-21:49:26.677 4fdc Delete type=0 #5013
+2023/04/29-21:49:27.169 4fdc Compacting 1@0 + 1@1 files
+2023/04/29-21:49:27.218 4fdc Generated table #5031@0: 20303 keys, 428922 bytes
+2023/04/29-21:49:27.223 4fdc Generated table #5032@0: 384 keys, 5992 bytes
+2023/04/29-21:49:27.223 4fdc Compacted 1@0 + 1@1 files => 434914 bytes
+2023/04/29-21:49:27.225 4fdc compacted to: files[ 0 2 16 0 0 0 0 ]
+2023/04/29-21:49:27.225 4fdc Delete type=2 #5016
+2023/04/29-21:49:27.225 4fdc Delete type=2 #5030
+2023/04/29-21:49:27.438 4d94 Compacting 1@1 + 10@2 files
+2023/04/29-21:49:27.515 4d94 Generated table #5033@1: 84931 keys, 2235340 bytes
+2023/04/29-21:49:27.587 4d94 Generated table #5034@1: 73296 keys, 2413482 bytes
+2023/04/29-21:49:27.619 4d94 Generated table #5035@1: 7777 keys, 2164171 bytes
+2023/04/29-21:49:27.645 4d94 Generated table #5036@1: 3268 keys, 2153762 bytes
+2023/04/29-21:49:27.673 4d94 Generated table #5037@1: 3972 keys, 2157804 bytes
+2023/04/29-21:49:27.730 4d94 Generated table #5038@1: 29439 keys, 2228952 bytes
+2023/04/29-21:49:27.789 4d94 Generated table #5039@1: 29145 keys, 2234047 bytes
+2023/04/29-21:49:27.831 4d94 Generated table #5040@1: 27758 keys, 2158093 bytes
+2023/04/29-21:49:27.927 4d94 Generated table #5041@1: 107153 keys, 2258927 bytes
+2023/04/29-21:49:28.032 4d94 Generated table #5042@1: 106112 keys, 2257564 bytes
+2023/04/29-21:49:28.041 4d94 Generated table #5043@1: 7345 keys, 155302 bytes
+2023/04/29-21:49:28.041 4d94 Compacted 1@1 + 10@2 files => 22417444 bytes
+2023/04/29-21:49:28.043 4d94 compacted to: files[ 0 1 17 0 0 0 0 ]
+2023/04/29-21:49:28.043 4d94 Delete type=2 #5017
+2023/04/29-21:49:28.043 4d94 Delete type=2 #5018
+2023/04/29-21:49:28.043 4d94 Delete type=2 #5019
+2023/04/29-21:49:28.043 4d94 Delete type=2 #5020
+2023/04/29-21:49:28.043 4d94 Delete type=2 #5021
+2023/04/29-21:49:28.043 4d94 Delete type=2 #5022
+2023/04/29-21:49:28.043 4d94 Delete type=2 #5023
+2023/04/29-21:49:28.043 4d94 Delete type=2 #5024
+2023/04/29-21:49:28.043 4d94 Delete type=2 #5025
+2023/04/29-21:49:28.043 4d94 Delete type=2 #5026
+2023/04/29-21:49:28.043 4d94 Delete type=2 #5031

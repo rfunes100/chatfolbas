@@ -1,3 +1,38 @@
-2023/04/29-14:02:26.660 55c4 Reusing MANIFEST C:\TFS\react\chatfol-main\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/04/29-14:02:26.666 55c4 Recovering log #4748
-2023/04/29-14:02:26.670 55c4 Reusing old log C:\TFS\react\chatfol-main\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/004748.log 
+2023/04/29-21:43:28.238 960 Reusing MANIFEST C:\TFS\react\chatfol-main\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/29-21:43:28.248 960 Recovering log #4997
+2023/04/29-21:43:28.388 960 Reusing old log C:\TFS\react\chatfol-main\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/004997.log 
+2023/04/29-21:43:40.486 66ac Level-0 table #5014: started
+2023/04/29-21:43:40.513 66ac Level-0 table #5014: 1249721 bytes OK
+2023/04/29-21:43:40.514 66ac Delete type=0 #4997
+2023/04/29-21:43:40.751 66ac Compacting 1@0 + 1@1 files
+2023/04/29-21:43:40.789 66ac Generated table #5015@0: 19089 keys, 412504 bytes
+2023/04/29-21:43:40.792 66ac Generated table #5016@0: 280 keys, 4582 bytes
+2023/04/29-21:43:40.793 66ac Compacted 1@0 + 1@1 files => 417086 bytes
+2023/04/29-21:43:40.794 66ac compacted to: files[ 0 2 15 0 0 0 0 ]
+2023/04/29-21:43:40.794 66ac Delete type=2 #5000
+2023/04/29-21:43:40.794 66ac Delete type=2 #5014
+2023/04/29-21:43:40.861 66ac Compacting 1@1 + 10@2 files
+2023/04/29-21:43:40.948 66ac Generated table #5017@1: 84910 keys, 2234935 bytes
+2023/04/29-21:43:41.027 66ac Generated table #5018@1: 71616 keys, 2408489 bytes
+2023/04/29-21:43:41.060 66ac Generated table #5019@1: 6381 keys, 2162115 bytes
+2023/04/29-21:43:41.090 66ac Generated table #5020@1: 3296 keys, 2152948 bytes
+2023/04/29-21:43:41.130 66ac Generated table #5021@1: 3978 keys, 2157974 bytes
+2023/04/29-21:43:41.211 66ac Generated table #5022@1: 30595 keys, 2233567 bytes
+2023/04/29-21:43:41.280 66ac Generated table #5023@1: 28141 keys, 2226509 bytes
+2023/04/29-21:43:41.334 66ac Generated table #5024@1: 33923 keys, 2165598 bytes
+2023/04/29-21:43:41.434 66ac Generated table #5025@1: 106552 keys, 2258286 bytes
+2023/04/29-21:43:41.537 66ac Generated table #5026@1: 106175 keys, 2257744 bytes
+2023/04/29-21:43:41.546 66ac Generated table #5027@1: 6649 keys, 145455 bytes
+2023/04/29-21:43:41.546 66ac Compacted 1@1 + 10@2 files => 22403620 bytes
+2023/04/29-21:43:41.548 66ac compacted to: files[ 0 1 16 0 0 0 0 ]
+2023/04/29-21:43:41.548 66ac Delete type=2 #5001
+2023/04/29-21:43:41.548 66ac Delete type=2 #5002
+2023/04/29-21:43:41.548 66ac Delete type=2 #5003
+2023/04/29-21:43:41.548 66ac Delete type=2 #5004
+2023/04/29-21:43:41.548 66ac Delete type=2 #5005
+2023/04/29-21:43:41.548 66ac Delete type=2 #5006
+2023/04/29-21:43:41.548 66ac Delete type=2 #5007
+2023/04/29-21:43:41.548 66ac Delete type=2 #5008
+2023/04/29-21:43:41.549 66ac Delete type=2 #5009
+2023/04/29-21:43:41.549 66ac Delete type=2 #5010
+2023/04/29-21:43:41.549 66ac Delete type=2 #5015
